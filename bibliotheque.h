@@ -6,4 +6,4 @@ typedef struct {
     int estEmprunte;
 } Livre;
 void principal();
-void rechercherLivre();
+void afficherLivre(Livre [], int nb);
