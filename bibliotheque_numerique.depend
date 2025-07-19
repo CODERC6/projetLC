@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1751150973 source:c:\users\diord\onedrive\bureau\langage c projet\bibliotheque_numerique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotheque.h"
+
+1751911155 source:c:\users\diord\onedrive\bureau\langage c projet\bibliotheque_numerique\bibliotheque.c
+	<stdio.h>
+	"bibliotheque.h"
+	<string.h>
+
+1752450384 c:\users\diord\onedrive\bureau\langage c projet\bibliotheque_numerique\bibliotheque.h
+
