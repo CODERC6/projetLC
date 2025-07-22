@@ -33,16 +33,6 @@ void principal()
         scanf(" %d", &choix);
         getchar();
         switch(choix)
-        {
-        case 8:
-            statistiques(livres, nb);
-            break;
-        case 0:
-            printf("Au revoir !\n");
-            return;
 
-        default:
-            printf("Choix invalide , veuillez reessayer.\n");
-        }
     }
 }
